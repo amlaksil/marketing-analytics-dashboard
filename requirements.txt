@@ -9,3 +9,4 @@ pycodestyle==2.11.1
 google-play-scraper==1.2.6
 telethon==1.35.0
 psycopg2==2.9.9
+sqlalchemy==2.0.30
