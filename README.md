@@ -9,7 +9,7 @@ The project directory contains the following structure:
 - `notebooks/`: Contains notes for analysis.
 - `src/`: Contains the source code for the analysis classes.
 - `tests/`: Contains the unit tests for the analysis classes.
-- `scripts/``: Contains test script for each classes.
+- `scripts/`: Contains test script for each classes.
 - `images/`: Contains images from the analysis result.
 - `requirements.txt`: Dependencies used.
 
@@ -21,15 +21,15 @@ $ git clone https://github.com/amlaksil/marketing-analytics-dashboard.git
 ```
 2. Navigate to the project directory.
 ```
-$ cd insurance-claim-analysis
+$ cd marketing-analytics-dashboard
 ```
 3. Create a virtual environment.
 ```
-$ python3 -m venv insurance-venv
+$ python3 -m venv dash-venv
 ```
 4. Activate the virtual environment
 ```
-$ source stock-venv/bin/activate
+$ source dash-venv/bin/activate
 ```
 6. Install dependencies using pip
 ```
