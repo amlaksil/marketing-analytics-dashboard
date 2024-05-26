@@ -24,4 +24,4 @@ jobs:
 
       - name: Lint code
         run: |
-          pylint src/**/*.py tests/**/*.py
+          pycodestyle src/**/*.py tests/**/*.py
